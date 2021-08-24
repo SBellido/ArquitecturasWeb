@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Stormtech Solutions\Sebastian\ArqWeb\.metadata\.plugins\org.eclipse.jdt.core
+1175314419.index
+2421329506.index
+2339184.index
+2724996582.index
+2575684604.index

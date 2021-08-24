@@ -1,0 +1,8 @@
+
+public class Prueba {
+	int prueba;
+	
+	public Prueba() {
+		
+	}
+}
