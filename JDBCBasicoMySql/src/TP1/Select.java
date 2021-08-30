@@ -11,7 +11,7 @@ public class Select {
 
 	public static void main(String[] args) {
 
-		String driver = "org.apache.derby.jdbc.EmbeddedDriver";
+		String driver = "com.mysql.cj.jdbc.Driver";
 				
 		
 		try {
@@ -23,10 +23,10 @@ public class Select {
 		}	
 		
 		
-		String uri = "jdbc:derby:MyDerby;create=true";
+		String uri = "jdbc:mysql://localhost:3306/example_db";
 		
 		try {
-			Connection conn = DriverManager.getConnection(uri);
+			Connection conn = DriverManager.getConnection(uri, "root", "");
 			String select = "SELECT * FROM persona";
 			PreparedStatement ps = conn.prepareStatement(select);
 			ResultSet rs = ps.executeQuery();

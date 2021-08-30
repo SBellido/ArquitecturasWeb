@@ -764,3 +764,31 @@
 2021-08-30 16:47:25,674 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
 2021-08-30 16:47:58,799 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-08-30 16:47:58,801 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-08-30 16:47:58,802 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 16:47:58,804 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-08-30 17:30:05,747 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 17:30:05,748 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-08-30 17:30:05,749 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 17:30:05,751 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-08-30 18:20:50,823 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 18:20:50,824 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-08-30 18:20:50,825 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 18:20:50,827 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-08-30 18:21:19,673 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 18:21:19,674 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-08-30 18:21:19,676 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 18:21:19,677 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-08-30 18:22:14,343 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.26/mysql-connector-java-8.0.26-sources.jar
+2021-08-30 18:22:16,032 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.26/mysql-connector-java-8.0.26-sources.jar
+2021-08-30 18:22:16,159 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.26
+2021-08-30 18:22:16,352 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 18:22:16,354 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-08-30 18:22:16,356 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 18:22:16,357 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-08-30 19:25:04,437 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 19:25:04,438 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-08-30 19:25:04,441 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 19:25:04,443 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-08-30 19:53:43,518 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-30 19:55:40,092 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 19:55:40,094 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources

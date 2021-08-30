@@ -9,25 +9,23 @@ import java.sql.SQLException;
 public class BaseDeDatos {
 
 	public static void main(String[] args) {
-			
+
 		String driver = "com.mysql.cj.jdbc.Driver";
-		
-		
+
 		try {
 			Class.forName(driver).getDeclaredConstructor().newInstance();
 		} catch (InstantiationException | IllegalAccessException | IllegalArgumentException | InvocationTargetException
 				| NoSuchMethodException | SecurityException | ClassNotFoundException e) {
 			e.printStackTrace();
 			System.exit(1);
-		}	
-		
-		
+		}
+
 		String uri = "jdbc:mysql://localhost:3306/example_db";
-		
+
 		try {
 			Connection conn = DriverManager.getConnection(uri, "root", "");
 			conn.setAutoCommit(false);
-			deleteTables(conn);	
+			deleteTables(conn);
 			createTables(conn);
 			addPerson(conn, 1, "Sebastián", 41);
 			addPerson(conn, 2, "Ariel", 27);
@@ -35,7 +33,6 @@ public class BaseDeDatos {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-		
 
 	}
 
@@ -51,27 +48,24 @@ public class BaseDeDatos {
 	}
 
 	private static void createTables(Connection conn) throws SQLException {
-		String table = "CREATE TABLE persona (" +
-				" id INT," +
-				"nombre VARCHAR(500)," +
-				"edad INT," + 
-				"PRIMARY KEY(id))";
-				conn.prepareStatement(table).execute();
-				conn.commit();
-		
+		String table = "CREATE TABLE persona (" + " id INT," + "nombre VARCHAR(500)," + "edad INT,"
+				+ "PRIMARY KEY(id))";
+		conn.prepareStatement(table).execute();
+		conn.commit();
+
 	}
-	
+
 	private static void deleteTables(Connection conn) throws SQLException {
 		String table = "DELETE FROM persona";
-				conn.prepareStatement(table).execute();
-				conn.commit();		
-				dropTables(conn);
+		conn.prepareStatement(table).execute();
+		conn.commit();
+		dropTables(conn);
 	}
 
 	private static void dropTables(Connection conn) throws SQLException {
 		String table = "DROP TABLE persona";
-				conn.prepareStatement(table).execute();
-				conn.commit();		
+		conn.prepareStatement(table).execute();
+		conn.commit();
 	}
-	
+
 }
