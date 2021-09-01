@@ -792,3 +792,296 @@
 2021-08-30 19:53:43,518 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-08-30 19:55:40,092 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-08-30 19:55:40,094 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-08-30 19:55:40,097 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-30 19:55:40,098 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-08-31 14:02:17,517 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-31 15:04:43,888 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:04:43,891 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-08-31 15:04:43,893 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:04:43,894 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-08-31 15:11:12,839 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:11:12,841 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:11:12,843 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:11:12,845 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:11:36,294 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:11:36,297 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:11:36,302 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:11:36,304 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:13:29,992 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:13:29,994 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:13:29,995 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:13:29,996 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:13:42,821 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:13:42,822 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:13:42,824 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:13:42,825 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:13:48,672 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:13:48,674 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:13:48,675 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:13:48,676 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:14:13,199 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:14:13,200 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:14:13,201 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:14:13,203 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:16:35,438 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:16:35,440 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:16:35,445 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:16:35,447 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:17:29,016 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:17:29,018 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:17:29,019 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:17:29,020 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:19:25,461 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:19:25,463 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:19:25,464 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:19:25,466 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:21:08,022 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:21:08,023 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:21:08,024 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:21:08,025 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:23:51,095 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:23:51,096 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:23:51,097 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:23:51,099 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:25:26,072 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:25:26,074 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:25:26,075 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:25:26,076 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:27:30,544 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:27:30,545 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:27:30,546 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:27:30,547 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:28:03,474 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:28:03,477 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:28:03,480 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:28:03,482 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:34:30,132 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:34:30,133 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:34:30,135 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:34:30,136 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:35:38,107 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:35:38,108 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:35:38,109 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:35:38,110 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:36:15,831 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:36:15,832 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:36:15,833 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:36:15,834 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:36:38,711 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.6.Final/hibernate-core-5.5.6.Final-sources.jar
+2021-08-31 15:36:43,745 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.6.Final/hibernate-core-5.5.6.Final-sources.jar
+2021-08-31 15:36:43,842 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.5.6.Final
+2021-08-31 15:36:44,088 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:36:44,090 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:36:44,091 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:36:44,093 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:37:13,185 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:37:13,186 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:37:13,187 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:37:13,188 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:51:14,693 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:51:14,695 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:51:14,696 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:51:14,698 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:52:50,814 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:52:50,815 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:52:50,816 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:52:50,817 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:55:12,048 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:55:12,049 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:55:12,050 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:55:12,051 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:56:35,681 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:56:35,682 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:56:35,683 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:56:35,684 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 15:57:00,575 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:57:00,576 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 15:57:00,577 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 15:57:00,579 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 18:54:59,635 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 18:54:59,637 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 18:54:59,638 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 18:54:59,639 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-08-31 18:56:05,315 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 18:56:05,316 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-08-31 18:56:05,317 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-31 18:56:05,318 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 08:04:45,684 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 08:04:45,687 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-09-01 08:04:45,688 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 08:04:45,689 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-09-01 14:04:38,717 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-01 14:06:03,573 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:06:03,575 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-09-01 14:06:03,578 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:06:03,580 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-09-01 14:06:55,189 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:06:55,192 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-09-01 14:06:55,192 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:06:55,194 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-09-01 14:09:41,473 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:09:41,474 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-09-01 14:09:41,475 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:09:41,477 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-09-01 14:11:42,588 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:11:42,590 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-09-01 14:11:42,592 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:11:42,593 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-09-01 14:12:15,147 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:12:15,149 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-09-01 14:12:15,150 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:12:15,152 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-09-01 14:12:16,161 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:12:16,163 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-09-01 14:12:16,164 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:12:16,165 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-09-01 14:12:43,821 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:12:43,823 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-09-01 14:12:43,824 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:12:43,825 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-09-01 14:51:28,658 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:51:28,697 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 14:51:28,702 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:51:28,704 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 14:52:33,626 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:52:33,627 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 14:52:33,628 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:52:33,629 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 14:53:47,977 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:53:47,979 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 14:53:47,980 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:53:47,981 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 14:54:41,217 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:54:41,219 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 14:54:41,221 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:54:41,224 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 14:56:16,924 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:56:16,926 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 14:56:16,928 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 14:56:16,930 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:00:17,903 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:00:17,905 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:00:17,906 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:00:17,908 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:00:20,179 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:00:20,180 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:00:20,181 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:00:20,182 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:00:41,926 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:00:41,927 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:00:41,929 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:00:41,929 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:03:37,823 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:03:37,824 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:03:37,826 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:03:37,828 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:04:57,791 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:04:57,793 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:04:57,794 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:04:57,795 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:07:00,449 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:07:00,451 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:07:00,452 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:07:00,453 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:07:59,276 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:07:59,279 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:07:59,280 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:07:59,281 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:10:09,493 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:10:09,495 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:10:09,496 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:10:09,497 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:10:46,725 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:10:46,727 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:10:46,728 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:10:46,729 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:11:29,308 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:11:29,310 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:11:29,310 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:11:29,312 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:16:23,175 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:16:23,176 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:16:23,177 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:16:23,179 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:18:12,421 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:18:12,423 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:18:12,425 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:18:12,427 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:19:56,573 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:19:56,574 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-09-01 15:19:56,575 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:19:56,576 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-09-01 15:19:57,583 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:19:57,584 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-09-01 15:19:57,585 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:19:57,587 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-09-01 15:21:12,502 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:21:12,503 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-09-01 15:21:12,504 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:21:12,506 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-09-01 15:22:21,246 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:22:21,248 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-09-01 15:22:21,249 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:22:21,250 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-09-01 15:22:38,493 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:22:38,494 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-09-01 15:22:38,495 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:22:38,496 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-09-01 15:36:18,759 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:36:18,761 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\main\resources
+2021-09-01 15:36:18,763 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:36:18,764 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasicoMySql\src\test\resources
+2021-09-01 15:36:19,771 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:36:19,773 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\main\resources
+2021-09-01 15:36:19,775 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:36:19,776 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JDBCBasico\src\test\resources
+2021-09-01 15:43:54,445 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:43:54,447 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:43:54,449 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:43:54,454 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:50:29,932 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:50:29,934 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:50:29,935 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:50:29,937 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:54:35,803 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:54:35,804 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:54:35,806 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:54:35,807 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:54:56,977 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:54:56,979 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:54:56,980 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:54:56,982 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:55:09,462 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:55:09,464 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:55:09,465 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:55:09,466 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:55:18,580 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:55:18,582 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:55:18,583 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:55:18,585 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:56:56,852 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:56:56,853 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:56:56,854 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:56:56,856 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:58:19,771 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:58:19,773 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:58:19,774 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:58:19,775 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 15:58:52,395 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:58:52,397 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 15:58:52,398 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 15:58:52,399 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 16:09:01,687 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 16:09:01,689 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 16:09:01,690 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 16:09:01,691 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 16:09:37,331 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 16:09:37,332 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 16:09:37,333 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 16:09:37,335 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 16:14:10,870 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 16:14:10,872 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources
+2021-09-01 16:14:10,873 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 16:14:10,874 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\test\resources
+2021-09-01 16:16:12,416 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-01 16:16:12,418 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Stormtech Solutions\Sebastian\ArqWeb\JPABasico\src\main\resources

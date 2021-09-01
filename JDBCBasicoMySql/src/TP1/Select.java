@@ -27,9 +27,10 @@ public class Select {
 		
 		try {
 			Connection conn = DriverManager.getConnection(uri, "root", "");
-			String select = "SELECT * FROM persona";
+			String select = "SELECT * FROM person";
 			PreparedStatement ps = conn.prepareStatement(select);
 			ResultSet rs = ps.executeQuery();
+			
 			while (rs.next()) {
 				System.out.println(rs.getInt(1)+", "+rs.getString(2)+", "+rs.getInt(3));
 			}
@@ -38,7 +39,6 @@ public class Select {
 			e.printStackTrace();
 		}
 		
-
 	}
 
 

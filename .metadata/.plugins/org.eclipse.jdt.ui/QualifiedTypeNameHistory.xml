@@ -6,4 +6,19 @@
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.ManyToAny"/>
+    <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlTransient"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="TP1.Person"/>
+    <fullyQualifiedTypeName name="TP1.Address"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

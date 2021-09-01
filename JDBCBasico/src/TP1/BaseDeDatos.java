@@ -28,6 +28,8 @@ public class BaseDeDatos {
 		
 		try {
 			Connection conn = DriverManager.getConnection(uri);
+			conn.setAutoCommit(false);
+			deleteTables(conn);
 			createTables(conn);
 			addPerson(conn, 1, "Sebastián", 41);
 			addPerson(conn, 2, "Ariel", 27);
@@ -39,19 +41,19 @@ public class BaseDeDatos {
 
 	}
 
-	private static void addPerson(Connection conn, int id, String name, int years) throws SQLException {
-		String insert = "INSERT INTO persona (id, nombre, edad) VALUES (?, ?, ?)";
+	private static void addPerson(Connection conn, int id, String name, int age) throws SQLException {
+		String insert = "INSERT INTO person (id, name, age) VALUES (?, ?, ?)";
 		PreparedStatement ps = conn.prepareStatement(insert);
 		ps.setInt(1, id);
 		ps.setString(2, name);
-		ps.setInt(3, years);
+		ps.setInt(3, age);
 		ps.executeUpdate();
 		ps.close();
 		conn.commit();
 	}
 
 	private static void createTables(Connection conn) throws SQLException {
-		String table = "CREATE TABLE persona (" +
+		String table = "CREATE TABLE person (" +
 				" id INT," +
 				"nombre VARCHAR(500)," +
 				"edad INT," + 
@@ -59,6 +61,19 @@ public class BaseDeDatos {
 				conn.prepareStatement(table).execute();
 				conn.commit();
 		
+	}
+	
+	private static void deleteTables(Connection conn) throws SQLException {
+		String table = "DELETE FROM person";
+		conn.prepareStatement(table).execute();
+		conn.commit();
+		dropTables(conn);
+	}
+
+	private static void dropTables(Connection conn) throws SQLException {
+		String table = "DROP TABLE person";
+		conn.prepareStatement(table).execute();
+		conn.commit();
 	}
 
 }

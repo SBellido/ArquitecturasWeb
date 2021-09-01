@@ -29,7 +29,7 @@ public class Select {
 		
 		try {
 			Connection conn = DriverManager.getConnection(uri);
-			String select = "SELECT * FROM persona";
+			String select = "SELECT * FROM person";
 			PreparedStatement ps = conn.prepareStatement(select);
 			ResultSet rs = ps.executeQuery();
 			while (rs.next()) {
