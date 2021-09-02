@@ -5,7 +5,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
 public class Delete {
-
+	
 	public static void main(String[] args) {
 		//"Example" se define en archivo persistence.xml <persistence-unit name="Example">
 		EntityManagerFactory emf = Persistence.createEntityManagerFactory("Example");
@@ -26,5 +26,6 @@ public class Delete {
 		emf.close();
 
 	}
+
 
 }

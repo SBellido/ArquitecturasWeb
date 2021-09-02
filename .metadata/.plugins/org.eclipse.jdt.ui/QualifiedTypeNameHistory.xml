@@ -21,4 +21,5 @@
     <fullyQualifiedTypeName name="TP1.Address"/>
     <fullyQualifiedTypeName name="antlr.collections.List"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="TP1.PersonDAO"/>
 </qualifiedTypeNameHistroy>
